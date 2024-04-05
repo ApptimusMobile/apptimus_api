@@ -1,8 +1,8 @@
 name: api_apptimus
 description: "A comprehensive Flutter package for simplifying API integration"
-version: 0.0.2
+version: 0.0.3
 homepage: "https://github.com/ApptimusMobile/apptimus_api.git"
-repository: "https://github.com/ApptimusMobile/apptimus_api/tree/master/packages/api_apptimus"
+repository: "https://github.com/ApptimusMobile/apptimus_api/blob/main/example/lib/main.dart"
 
 environment:
   sdk: ">=3.3.3 <4.0.0"

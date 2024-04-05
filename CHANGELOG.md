@@ -1,3 +1,3 @@
-## 0.0.2
+## 0.0.3
 
-*  the EXAMPLE file is added for more clarification.
+*  the sample project added.
