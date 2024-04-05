@@ -1,15 +1,8 @@
 name: api_apptimus
-description: "
-  A comprehensive Flutter package for integrating APIs into your mobile applications. 
-  This package provides utilities and components to simplify the process of making 
-  API requests, handling responses, and integrating data from various APIs into your 
-  Flutter projects.
-
-  Features:
-  - Streamlined API request handling
-  - Built-in error handling and response parsing"
+description: "A comprehensive Flutter package for simplifying API integration"
 version: 0.0.2
 homepage: "https://github.com/ApptimusMobile/apptimus_api.git"
+repository: "https://github.com/ApptimusMobile/apptimus_api/tree/master/packages/api_apptimus"
 
 environment:
   sdk: ">=3.3.3 <4.0.0"
